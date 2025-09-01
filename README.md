@@ -2,7 +2,7 @@
 
 PROJECT TITLE
 
-Customer Churn Analysis
+EV Sales Analysis
 
 OVERVIEW
 
